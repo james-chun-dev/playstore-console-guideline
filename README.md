@@ -30,11 +30,11 @@
 
 
 
-![간단한 설명](https://github.com/james-chun-dev/playstore-console-guideline/blob/master/res/Screenshot_20200406-164622_Google Play Store.png)
+![간단한 설명](https://github.com/james-chun-dev/playstore-console-guideline/blob/master/res/Screenshot_20200406-164622_GooglePlayStore.png)
 
 
 
-![자세한 설명](https://github.com/james-chun-dev/playstore-console-guideline/blob/master/res/Screenshot_20200406-164744_Google Play Store.png)
+![자세한 설명](https://github.com/james-chun-dev/playstore-console-guideline/blob/master/res/Screenshot_20200406-164744_GooglePlayStore.png)
 
 
 
