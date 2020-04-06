@@ -24,17 +24,19 @@
 
 * ##### 앱을 설명하는 내용을 간단하게 입력합니다.
 
+
+
+<img src="https://user-images.githubusercontent.com/20632507/78539712-f7887c80-782d-11ea-8d97-8255edf47f1a.jpg" width="300px" align="left" />
+
+
+
 #### 2.3 자세한 설명
 
 * ##### 앱 소개를 좀 더 구체적으로 입력합니다. 많이 써도 좋으니 상세하게 앱을 설명하는 문구를 넣어주세요.
 
 
 
-![간단한 설명](https://user-images.githubusercontent.com/20632507/78539700-f2c3c880-782d-11ea-974c-343d82bd6a1c.jpg){: width="50%" height="50%"}
-
-
-
-![자세한 설명](https://user-images.githubusercontent.com/20632507/78539712-f7887c80-782d-11ea-8d97-8255edf47f1a.jpg)
+<img src="https://user-images.githubusercontent.com/20632507/78539700-f2c3c880-782d-11ea-974c-343d82bd6a1c.jpg" width="300px" align="left" />
 
 
 
@@ -74,7 +76,7 @@
 
 
 
-![example](https://github.com/james-chun-dev/playstore-console-guideline/blob/master/res/Screenshot_1.png)
+<img src="https://user-images.githubusercontent.com/20632507/78541492-aaf27080-7830-11ea-8125-e9d6693c670e.png" align="left" />
 
 
 
