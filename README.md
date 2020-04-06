@@ -30,11 +30,11 @@
 
 
 
-![example](https://github.com/james-chun-dev/playstore-console-guideline/blob/master/res/Screenshot_20200406-164622_GooglePlayStore.png)
+![간단한 설명](https://user-images.githubusercontent.com/20632507/78539700-f2c3c880-782d-11ea-974c-343d82bd6a1c.jpg)
 
 
 
-![자세한 설명](https://github.com/james-chun-dev/playstore-console-guideline/blob/master/res/Screenshot_20200406-164744_GooglePlayStore.png)
+![자세한 설명](https://user-images.githubusercontent.com/20632507/78539712-f7887c80-782d-11ea-8d97-8255edf47f1a.jpg)
 
 
 
