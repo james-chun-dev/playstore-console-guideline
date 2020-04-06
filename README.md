@@ -30,7 +30,7 @@
 
 
 
-![간단한 설명](https://github.com/james-chun-dev/playstore-console-guideline/blob/master/res/Screenshot_20200406-164622_GooglePlayStore.png)
+![example](https://github.com/james-chun-dev/playstore-console-guideline/blob/master/res/Screenshot_20200406-164622_GooglePlayStore.png)
 
 
 
