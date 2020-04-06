@@ -70,7 +70,9 @@
 
 * ##### 아래 설문조사를 완료하면 등급이 정해집니다.
 
-![Screenshot_1](C:\Users\chc3484\Documents\Lightshot\Screenshot_1.png)
+
+
+![example](https://github.com/james-chun-dev/playstore-console-guideline/blob/master/res/Screenshot_1.png)
 
 
 
